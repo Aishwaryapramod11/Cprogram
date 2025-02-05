@@ -22,10 +22,10 @@ int main(){
           positionSmallest=i+1;
           }
     }
-     printf("the largest number is %d",largest);
-     printf("the smallest number is%d",smallest);
-     printf("the position of largest number is %d",positionLargest);
-     printf("the position of smallest number is %d",positionSmallest);
+     printf("\nthe largest number is %d",largest);
+     printf("\nthe smallest number is%d",smallest);
+     printf("\nthe position of largest number is %d",positionLargest);
+     printf("\nthe position of smallest number is %d",positionSmallest);
      return 0;
 }
        
